@@ -7,7 +7,6 @@
 - 💬 Me gustan todos los deportes
 - 📫 Soy muy activo en instagram: @LaloChampurrado y Discord: Champurrado#3583
 - 😄 El/He/His
-- 
 <!--
 **EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
