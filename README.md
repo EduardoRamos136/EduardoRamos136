@@ -3,7 +3,7 @@
 <!--
 EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:
 
 - 🔭 Estudiante de Ing. Sistemas Computacionales
 - 🌱 Estudiante en el Instituto Tecnológico de Tijuana
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 El/He/His
 -->
 
-                                                                            Horario Escolar
+                                Horario Escolar
 |       | Lunes                                         | Martes                                        | Miércoles                                     | Jueves                                        | Viernes                                       |
 |-------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | 13:00 | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        |
