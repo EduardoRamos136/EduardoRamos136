@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 Estudiante de Ing. Sistemas Computacionales
 - 🌱 Estudiante en el Instituto Tecnológico de Tijuana
