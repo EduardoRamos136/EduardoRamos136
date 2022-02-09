@@ -1,10 +1,5 @@
 ### Holaa 👋
 
-<!--
-**EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Estudiante de Ing. Sistemas Computacionales
 - 🌱 Estudiante en el Instituto Tecnológico de Tijuana
 - 👯 Me gusta trabajar en el desarrollo visual de los proyectos
@@ -12,6 +7,9 @@ Here are some ideas to get you started:
 - 💬 Me gustan todos los deportes
 - 📫 Soy muy activo en instagram: @LaloChampurrado y Discord: Champurrado#3583
 - 😄 El/He/His
+- 
+<!--
+**EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
                                                               Horario Escolar
