@@ -14,7 +14,7 @@ EduardoRamos136/EduardoRamos136** is a ✨ _special_ ✨ repository because its 
 - 😄 El/He/His
 -->
 
-                                                        Horario Escolar
+                                                              Horario Escolar
 |       | Lunes                                         | Martes                                        | Miércoles                                     | Jueves                                        | Viernes                                       |
 |-------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | 13:00 | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        | Ingenieria De Software                        |
